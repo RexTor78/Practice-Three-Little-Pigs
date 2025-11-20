@@ -1,6 +1,6 @@
 # 🛰️📡 **FEDERACIÓN GALÁCTICA UNIFICADA**
 Archivo Oficial – Registro Narrativo Nº FG-4221-3C
-<img src="img/lobo-galactico.png" alt="Imagen Lobo galactico" width="300"/ >
+<img src="img/lobo-galactico.png" width="300" / alt="Imagen Lobo galactico" >
 **📑 Resumen de la misión**
 
 Este archivo contiene la reconstrucción digital del caso “Los Tres Cerditos – Incidente en la Frontera Estelar”, un evento menor pero significativo dentro del estudio de supervivencia interplanetaria y arquitectura espacial en zonas hostiles.
